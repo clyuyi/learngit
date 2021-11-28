@@ -10,4 +10,10 @@ Git is free software.
 
 Creating a new branch is quick
 
+<<<<<<< HEAD
 22222222222222222222
+=======
+Creating a new branch is quick & simple.
+
+1111111111111111111111
+>>>>>>> feature1
